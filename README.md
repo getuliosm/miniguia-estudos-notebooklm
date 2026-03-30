@@ -90,3 +90,14 @@ Nesta seção, documento os desafios encontrados durante a interação com as IA
   * GUANABARA, Gustavo. **Curso de Algoritmos**. Rio de Janeiro: Curso em Vídeo, 2014. Disponível em: [https://www.google.com/search?q=https://www.youtube.com/c/cursoemvideo](https://www.google.com/search?q=https://www.youtube.com/c/cursoemvideo). Acesso em: 29 mar. 2026.
   * ORTH, Afonso I. **Algoritmos e Programação**. Santa Maria: UFSM, [s.d.]. Disponível em: [https://www-usr.inf.ufsm.br/](https://www-usr.inf.ufsm.br/)\~candia/aulas/elc1005/orth.pdf. Acesso em: 29 mar. 2026.
   * SENAI. **Apostila Lógica de Programação**. [s.l.]: SENAI, [s.d.]. Disponível em: [https://pt.scribd.com/document/523243196/Apostila-Logica-de-Programacao-SENAI](https://pt.scribd.com/document/523243196/Apostila-Logica-de-Programacao-SENAI). Acesso em: 29 mar. 2026.
+
+11\. EVIDÊNCIAS DO PROJETO
+
+<img width="1920" height="881" alt="PROMPT 3" src="https://github.com/user-attachments/assets/e13db32e-e64f-453d-9b24-a98908ab1431" />
+<img width="1920" height="888" alt="PROMPT 2" src="https://github.com/user-attachments/assets/248bc1db-4235-48c4-86fc-85b90c4a178e" />
+<img width="1920" height="880" alt="PROMPT 1" src="https://github.com/user-attachments/assets/befbe20c-3f45-433e-9a3d-2f30b55c909a" />
+<img width="1920" height="884" alt="Pergunta 5" src="https://github.com/user-attachments/assets/1b13fb0f-666a-41ef-bc60-90221a1a16df" />
+<img width="1920" height="885" alt="Pergunta 4" src="https://github.com/user-attachments/assets/aa97dc88-abbc-4d47-9bfd-1646bb9e7cd2" />
+<img width="1920" height="884" alt="Pergunta 3" src="https://github.com/user-attachments/assets/e752934f-2e39-4775-846c-5ae583b5a565" />
+<img width="1920" height="877" alt="Pergunta 2" src="https://github.com/user-attachments/assets/92ae34f0-0553-44f0-973f-9c22a0a1e96c" />
+<img width="1914" height="885" alt="Pergunta 1" src="https://github.com/user-attachments/assets/c8431b6c-340c-43b9-b8b7-494a02322678" />
